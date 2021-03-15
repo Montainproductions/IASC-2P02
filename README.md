@@ -9,7 +9,7 @@ The interactive Study Guide can be found [here](Interactive_Study_Guide.html)
 ## Genealogy on computer monitors
 The point of this project was to create a Genealogy of what could of happened if certain things would of changed if parts of a technology didnt get created. So I decided to do two things. First have a brief history on what had actually happened in the real world and then give the three alternatives of history that could of happened. Those being as follows, If no touch screen was invented, if LCD and LED monitors were created making monitors smaller and cheap, or if both of the previous options happened at the same time where there wasent touch screen monitors or LCD/LED monitors on the market.
 
-The interactive Genealogy can be found [here](Interactive_Study_Guide.html)
+The interactive Genealogy can be found [here](History of Screens.html)
 
 # Speculative Fiction
 ## May the internet be with you
