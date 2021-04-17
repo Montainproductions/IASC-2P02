@@ -11,6 +11,11 @@ The point of this project was to create a Genealogy of what could of happened if
 
 The interactive Genealogy can be found [here](History of Screens.html)
 
+## Interactive TimeLine
+This project is meant so that I create an alternete timeline were a certain technology was/wasent invented and how this affects history and other technological advancments. The thecnology that I choose that Monitors were never created for computers (Or TV for that matter). Through out the time line I have times that tech is invented but instead of being made and used for how its used now in days I have decided to talk about how it would of been used back then and why it was really invented. For example in the alternate timeline the internet was created instead of communicating inbetween people using computers its only purpose is to send information from one computer to another but can only be printed through the recipt so that it can be viewed. Since Monitors never came into existance it also meant that many of the advancments were a few years later then original since it would of taken a bit more to be able to solve the poblems with limited amount of visual aid.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RZYeWbgfuYQmt0RzF5dB1umhoeO7sKmS3pEvWOdm-MM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 # Speculative Fiction
 ## May the internet be with you
 I had only gotten back from GameStop 30 minutes ago but with how long this dial up service is taking it has felt like a few hours have already passed and I might not be able to play the new Battlefront game with my friends. We have been waiting for this game for months ever since we saw the game trailer while the E3 show was happening on TV. It was amazing watching the revel trailer since both I and my dad have always loved the original movies and have wanted a newer Star Wars game since we played the first one in 2004. 
